@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Vlady. 👋
+
+## About me  
+Junior Backend Developer 
+
+## 
+
+## Github Stats
+[![Vlady Github stats](https://github-readme-stats.vercel.app/api?username=vladydev3)](https://github.com/vladydev3/github-readme-stats)
 
 <!--
 **vladydev3/vladydev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
