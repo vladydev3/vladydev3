@@ -3,22 +3,18 @@
 ## About me  
 Junior Backend Developer 
 
-## 
+## Skills
+- HTML, CSS
+- C#: .Net, Unity
+- Python: Django, FastAPI, Flask
+- JavaScript: Vanilla, React
 
 ## Github Stats
-[![Vlady Github stats](https://github-readme-stats.vercel.app/api?username=vladydev3&show_icons=true&theme=radical)](https://github.com/vladydev3/github-readme-stats)
+[![Vlady Github stats](https://github-readme-stats.vercel.app/api?username=vladydev3&show_icons=true&theme=dark)](https://github.com/vladydev3/github-readme-stats)
 
-<!--
-**vladydev3/vladydev3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- Computer Science, Havana University
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+- [LinkedIn](www.linkedin.com/in/vlady-pinera)
+- vladypv3@gmail.com
