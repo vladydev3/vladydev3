@@ -1,7 +1,7 @@
 # Hi there, I'm Vlady. 👋
 
 ## About me  
-Junior Backend Developer 
+Junior backend developer, Computer Science student
 
 ## Skills
 - HTML, CSS
@@ -16,5 +16,4 @@ Junior Backend Developer
 - Computer Science, Havana University
 
 ## Contact me
-- [LinkedIn](www.linkedin.com/in/vlady-pinera)
 - vladypv3@gmail.com
