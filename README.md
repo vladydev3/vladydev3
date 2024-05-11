@@ -1,13 +1,13 @@
 # Hi there, I'm Vlady. 👋
 
 ## About me  
-Junior backend developer, Computer Science student
+Junior frontend developer, Computer Science student
 
 ## Skills
-- HTML, CSS
+- HTML, CSS (MUI, Tailwind)
+- JavaScript: Vanilla, React, NextJS
 - C#: .Net, Unity
 - Python: Django, FastAPI, Flask
-- JavaScript: Vanilla, React
 
 ## Github Stats
 [![Vlady Github stats](https://github-readme-stats.vercel.app/api?username=vladydev3&show_icons=true&theme=dark)](https://github.com/vladydev3/github-readme-stats)
