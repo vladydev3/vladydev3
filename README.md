@@ -10,7 +10,7 @@ Junior frontend developer, Computer Science student
 - Python: Django, FastAPI, Flask
 
 ## LeetCode Stats
-![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/vladydev3?theme=dark&font=Roboto))
+![Leetcode Stats](https://leetcard.jacoblin.cool/vladydev3?theme=dark&font=Roboto)
 
 ## Github Stats
 [![Vlady Github stats](https://github-readme-stats.vercel.app/api?username=vladydev3&show_icons=true&theme=dark)](https://github.com/vladydev3/github-readme-stats)
